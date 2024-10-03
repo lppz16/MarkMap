@@ -76,7 +76,7 @@ ejecución del proyecto.
 - Aplicación dividida en secciones: Objetos perdidos y emprendimientos.
 - Notificaciones y espacio para comentarios y consejos.
 - Subdivisión de emprendimientos en categorías (entretenimiento, tecnología, alimentación, etc.).
-  - ## [Logo Marketsalle](./Marketsalle.png)
+  - ## [Logo Marketsalle](./imagenes/icono.png)
 
 ## **Evaluación de necesidades**
 - Tabulación y categorización de emprendimientos en la universidad.
