@@ -3,17 +3,15 @@ title: MarketSalle
 markmap:
  colorFreezelevel: 2
 ---
-<!--
-- "conectando talentos, productos y 
-servicios de los emprendedores de 
-Unilasallista"
--->
 
 ## **Integrantes**
 - Yan Frank Ríos López
 - Santiago Guzman Garcia
 - Pedro Juan Mendoza Ovallos
 - Miguel Ángel Ramírez Corredor 
+
+## **Slogan**
+- ***Conectando talentos, productos y servicios de los emprendedores de UnilasallistA.***
 
 ## **¿En qué consiste?**
 - Diseñar una idea de plataforma y aplicación móvil que permita a la comunidad
